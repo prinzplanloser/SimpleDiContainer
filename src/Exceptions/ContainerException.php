@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Components\DI\Exceptions;
+namespace SimpleDi\Exception;
 
 class ContainerException extends \Exception
 {

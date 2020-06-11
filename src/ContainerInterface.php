@@ -4,8 +4,8 @@ namespace SimpleDi;
 
 interface ContainerInterface
 {
-    public function get($key);
+    public function get(string $key);
 
-    public function has($key);
+    public function has(string $key);
 
 }

@@ -1,0 +1,7 @@
+{
+  "name": "SimpleDi/SimpleDIContainer",
+  "description": "Simple DI Container",
+  "require": {
+    "php": "^7.2"
+  }
+}
