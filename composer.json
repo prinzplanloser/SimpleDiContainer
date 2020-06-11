@@ -1,5 +1,5 @@
 {
-  "name": "SimpleDi/SimpleDIContainer",
+  "name": "simpledi/simpledicontainer",
   "description": "Simple DI Container",
   "require": {
     "php": "^7.2"
